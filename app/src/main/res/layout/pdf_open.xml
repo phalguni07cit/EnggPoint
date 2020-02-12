@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pdf_open"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="horizontal"
+    android:fadeScrollbars="true"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+    tools:context="com.ambilabs.enggpoint.PdfOpen">
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfviewId"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+    
+    <!--android:layout_toLeftOf="@+id/sbarId"
+    <com.github.barteksc.pdfviewer.scroll.DefaultScrollHandle
+        android:id="@+id/sbarId"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        /> -->
+
+</RelativeLayout>

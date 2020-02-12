@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "466178363422",
+    "firebase_url": "https://enggpoint1.firebaseio.com",
+    "project_id": "enggpoint1",
+    "storage_bucket": "enggpoint1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466178363422:android:cf9e4893a31ab780",
+        "android_client_info": {
+          "package_name": "com.ambilabs.enggpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466178363422-c8239emjpmqjg9d8qn1aoeup31sge3gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ambilabs.enggpoint",
+            "certificate_hash": "d2d5186d242f0e258aba1c8f9646c8c00687dae6"
+          }
+        },
+        {
+          "client_id": "466178363422-qia8erae4100c0rbhf0mpbuaqrbl5ipd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Q4IZ1SGUWpiIAikYQStGWwmcqZfEeQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466178363422-qia8erae4100c0rbhf0mpbuaqrbl5ipd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
